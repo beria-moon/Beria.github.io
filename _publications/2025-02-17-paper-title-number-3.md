@@ -1,5 +1,5 @@
 ---
-title: "MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Reference"
+title: "Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listening"
 collection: publications
 category: conferences
 permalink: /publication/2025-02-17-paper-title-number-4
