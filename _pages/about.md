@@ -12,22 +12,10 @@ redirect_from:
 
 <h2>🎓 Education</h2>
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 12px; background-color: #f9f9f9; width: 95%; margin: 10px auto;">
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;">
-      <strong>Ph.D. in Artificial Intelligence</strong><br>
-      The Hong Kong University of Science and Technology (Guangzhou)<br>
-      <em>2023 – Present</em>
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong>M.Sc. in Electronic Information</strong><br>
-      Southern Medical University<br>
-      <em>2020 – 2023</em>
-    </li>
-    <li>
-      <strong>B.Sc. in Biomedical Engineering</strong><br>
-      Southern Medical University<br>
-      <em>2016 – 2020</em>
-    </li>
+  <ul>
+    <li><strong>Ph.D. in Artificial Intelligence</strong>, The Hong Kong University of Science and Technology (Guangzhou), 2023 – Present</li>
+    <li><strong>M.Sc. in Electronic Information</strong>, Southern Medical University, 2020 – 2023</li>
+    <li><strong>B.Sc. in Biomedical Engineering</strong>, Southern Medical University, 2016 – 2020</li>
   </ul>
 </div>
 
