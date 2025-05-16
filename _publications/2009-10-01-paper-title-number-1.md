@@ -3,7 +3,6 @@ title: "GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Med
 collection: publications
 category: journal
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: TNNLS,2023
 paperurl: 'http://academicpages.github.io/files/GREnet_Gradually_REcurrent_Network_With_Curriculum_Learning_for_2-D_Medical_Image_Segmentation.pdf'
 bibtexurl: 'http://academicpages.github.io/files/GREnet.bib'
