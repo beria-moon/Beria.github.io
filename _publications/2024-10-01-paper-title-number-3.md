@@ -7,5 +7,5 @@ permalink: /publication/2024-10-01-paper-title-number-2
 excerpt: #
 #date: 2010-10-01
 venue: 'JBHI'
-paperurl: 'http://academicpages.github.io/files/JBHI_TaiChiNet.pdf'
+paperurl: 'http://beria-moon.github.io/files/JBHI_TaiChiNet.pdf'
 ---
