@@ -24,6 +24,21 @@ redirect_from:
   </ul>
 </div>
 
+<h2>💼 Work Experience</h2>
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 12px; background-color: #f9f9f9; width: 95%; margin: 10px auto;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;">
+      <strong>Internship</strong>, Tencent AI Lab<br>
+      <em>2023 – 2024</em>
+    </li>
+    <li>
+      <strong>Research Assistant</strong>, The Chinese University of Hong Kong (Shenzhen)<br>
+      <em>2022 – 2023</em>
+    </li>
+  </ul>
+</div>
+
+
 
 
 
