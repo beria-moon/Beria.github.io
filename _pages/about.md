@@ -19,8 +19,8 @@ redirect_from:
 <div style="padding: 10px; width: 99%; margin: 5px auto;">
   <ul style="margin: 0;">
     <li><strong>Ph.D. in Artificial Intelligence</strong>, The Hong Kong University of Science and Technology (Guangzhou), 2023 – Present</li>
-    <li><strong>M.Sc. in Electronic Information</strong>, Southern Medical University, 2020 – 2023</li>
-    <li><strong>B.Sc. in Biomedical Engineering</strong>, Southern Medical University, 2016 – 2020</li>
+    <li><strong>M.S. in Electronic Information</strong>, Southern Medical University, 2020 – 2023</li>
+    <li><strong>B.S. in Biomedical Engineering</strong>, Southern Medical University, 2016 – 2020</li>
   </ul>
 </div>
 
