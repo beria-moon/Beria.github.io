@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="/images/资源 53.png" alt="About me banner" width="70%">
+  <img src="/images/资源 53.png" alt="About me banner" width="30%">
 </p>
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
+Hello, welcome to my homepage! This is Jinting Wang(汪金婷). I’m a Ph.D. student in the Artificial Intelligence Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by <a href="https://scholar.google.com/citations?user=KQ2S01UAAAAJ&hl=en">Prof. Li Liu</a>.  
+<strong>My research interests lie in multimodal learning and cross-modal generation, AI for medical imaging.</strong>
+</div>
 
 A data-driven personal website
 ======
