@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 <h2>🎓 Education</h2>
-<div style="border-radius: 10px; padding: 10px; background-color: #f9f9f9; width: 99%; margin: 10px auto;">
+<div style="padding: 10px; width: 99%; margin: 10px auto;">
   <ul>
     <li><strong>Ph.D. in Artificial Intelligence</strong>, The Hong Kong University of Science and Technology (Guangzhou), 2023 – Present</li>
     <li><strong>M.Sc. in Electronic Information</strong>, Southern Medical University, 2020 – 2023</li>
@@ -25,7 +25,7 @@ redirect_from:
 </div>
 
 <h2>💼 Experience</h2>
-<div style="border-radius: 10px; padding: 8px; background-color: #f9f9f9; width: 99%; margin: 10px auto;">
+<div style="padding: 10px; width: 99%; margin: 10px auto;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px;">
       <strong>Internship</strong>, Tencent AI Lab &nbsp; <em>2023 – 2024</em>
@@ -35,6 +35,7 @@ redirect_from:
     </li>
   </ul>
 </div>
+
 
 <h2>📚 Selected Publications</h2>
 <div style="padding: 10px; width: 99%; margin: 10px auto;">
