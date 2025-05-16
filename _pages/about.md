@@ -25,7 +25,7 @@ redirect_from:
 </div>
 
 <h2>💼 Experience</h2>
-<div style="border-radius: 10px; padding: 10px; background-color: #f9f9f9; width: 99%; margin: 10px auto;">
+<div style="border-radius: 10px; padding: 8px; background-color: #f9f9f9; width: 99%; margin: 10px auto;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px;">
       <strong>Internship</strong>, Tencent AI Lab &nbsp; <em>2023 – 2024</em>
