@@ -1,7 +1,7 @@
 ---
 title: "GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Image Segmentation"
 collection: publications
-category: journal
+category:  manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: TNNLS,2023
 paperurl: 'http://academicpages.github.io/files/GREnet_Gradually_REcurrent_Network_With_Curriculum_Learning_for_2-D_Medical_Image_Segmentation.pdf'
