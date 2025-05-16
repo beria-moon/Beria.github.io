@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="images/53.png" alt="About me banner" width="15%">
+  <img src="images/53.png" alt="About me banner" width="10%">
 </p>
 
 <div style="border-radius: 10px; padding: 12px; background-color: #f9f9f9;width: 99%; margin: 0 auto">
