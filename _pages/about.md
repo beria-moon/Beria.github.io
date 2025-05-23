@@ -93,7 +93,24 @@ GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Ima
 <dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics(<strong>JBHI 2023</strong>)</dd>
 </dl>
 <hr style="margin-top: 20px; margin-bottom: 20px;">
-  
+
+
+ <hr>
+
+<h2>🎡 Service</h2>
+
+<h3>Conference Committee Member</h3>
+<ul>
+  <li>Reviewer for ACM MM 2025, ICASSP 2025</li>
+  <li>Reviewer for ICASSP 2024, AAAI 2024, ACM MM 2024</li>
+</ul>
+
+<h3>Journal Reviewer</h3>
+<ul>
+  <li>IEEE TNNLS,TASLP </li>
+  <li>IPR</li>
+</ul>
+
 
 
 
