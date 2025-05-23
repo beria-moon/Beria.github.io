@@ -95,7 +95,7 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
   <dd><strong>Jinting Wang</strong>, Yujiao Tang, Yang Xiao, Joey Tianyi Zhou, Zhiwen Fan, Feng Yang</dd>
   <dd><strong class="First"></strong> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS 2023</strong>)</dd>
 </dl>
-<hr style="margin-top: 20px; margin-bottom: 120px;">
+<hr style="margin-top: 20px; margin-bottom: 130px;">
 
 
 <h2 style="display: block; clear: both; margin: 20px 0 8px 0;">🎡 Service</h2>
