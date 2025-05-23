@@ -38,21 +38,55 @@ redirect_from:
 
 <h2 style="margin: 15px 0 5px 0;">📚 Selected Publications</h2>
 <div style="text-align: left; margin: 20px 0; font-size: 1.2em; color: #666;">
-2025 
 </div>
 <dl>
   <dt><img align="left" width="200"
 hspace="10" wspace="20" src="images/MotionComposer.jpg">
-<span class="conference-label">ICASSP 2025</span>
 </dt>
   <dd><a href="https://ieeexplore.ieee.org/abstract/document/10889094"><strong>	
 MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Reference
 </strong></a></dd>
 <dd><strong><strong>Jinting Wang</strong>&dagger;</strong>, Li Liu&dagger;Jun Wang</dd>
-<dd> <strong class="First"></strong> in IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2025</dd>
+<dd> <strong class="First"></strong> in IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2025</strong>)</dd>
 </dl>
-
 <hr>
+
+<dl>
+  <dt><img align="left" width="200"
+hspace="10" wspace="20" src="images/FinePortraitist.jpg">
+</dt>
+<dd><a href="https://ieeexplore.ieee.org/abstract/document/10889904"><strong>	
+Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listening
+</strong></a></dd>
+<dd><strong><strong>Jinting Wang</strong>&dagger;</strong>, Li Liu&dagger;Jun Wang</dd>
+<dd>  <strong class="First"></strong> IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2025</strong>)</dd>
+</dl>
+<hr>
+
+<dl>
+  <dt><img align="left" width="200"
+hspace="10" wspace="20" src="images/TaiChiNet.jpg">
+</dt>
+<dd><a href="https://ieeexplore.ieee.org/abstract/document/10388392"><strong>	
+TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentation in Ultrasound Images
+</strong></a></dd>
+<dd><strong><strong>Jinting Wang</strong>&dagger;</strong>,Jiafei Liang,Yang Xiao, Joey Tianyi Zhou, Zhiwen Fang&dagger;Feng Yang&dagger</dd>
+<dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics(<strong>JBHI 2023</strong>)</dd>
+</dl>
+<hr>
+
+<dl>
+  <dt><img align="left" width="200"
+hspace="10" wspace="20" src="images/GREnet.jpg">
+</dt>
+<dd><a href="https://ieeexplore.ieee.org/abstract/document/10026671"><strong>	
+GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Image Segmentation
+</strong></a></dd>
+<dd><strong><strong>Jinting Wang</strong>&dagger;</strong>,Yujiao Tang,Yang Xiao, Joey Tianyi Zhou, Zhiwen Fang&dagger;Feng Yang&dagger</dd>
+<dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics(<strong>JBHI 2023</strong>)</dd>
+</dl>
+<hr>
+
   
 
 
