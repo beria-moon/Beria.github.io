@@ -44,7 +44,7 @@ redirect_from:
 </h2>
 <dl>
  <dt><img align="left" width="200"
-hspace="10" wspace="20" src="images/MotionComposer.jpg">
+hspace="20" wspace="20" src="images/MotionComposer.jpg">
 </dt>
 </dl>
 <dd><a href="https://ieeexplore.ieee.org/abstract/document/10889094"><strong>	
@@ -57,7 +57,7 @@ MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Refe
 
 <dl>
   <dt><img align="left" width="200"
-hspace="10" wspace="20" src="images/FinePortraitist.jpg">
+hspace="20" wspace="20" src="images/FinePortraitist.jpg">
 </dt>
 <dd><a href="https://ieeexplore.ieee.org/abstract/document/10889904"><strong>	
 Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listening
@@ -72,7 +72,7 @@ Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listen
 </h2>
 <dl>
   <dt><img align="left" width="200"
-hspace="10" wspace="20" src="images/TaiChiNet.jpg">
+hspace="20" wspace="20" src="images/TaiChiNet.jpg">
 </dt>
 <dd><a href="https://ieeexplore.ieee.org/abstract/document/10388392"><strong>	
 TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentation in Ultrasound Images
@@ -84,7 +84,7 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
 
 <dl>
   <dt><img align="left" width="200"
-hspace="10" wspace="20" src="images/GREnet.jpg">
+hspace="20" wspace="20" src="images/GREnet.jpg">
 </dt>
 <dd><a href="https://ieeexplore.ieee.org/abstract/document/10026671"><strong>	
 GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Image Segmentation
