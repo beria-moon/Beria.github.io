@@ -53,7 +53,7 @@ MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Refe
 <dd><strong>Jinting Wang</strong>, Li Liu, Jun Wang</dd>
 <dd> <strong class="First"></strong> in IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2025</strong>)</dd>
 
-<hr style="margin-top: 20px; margin-bottom: 20px;">
+
 
 <dl>
   <dt><img align="left" width="200"
@@ -65,7 +65,7 @@ Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listen
 <dd><strong>Jinting Wang</strong>, Li Liu, Jun Wang</dd>
 <dd>  <strong class="First"></strong> IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2025</strong>)</dd>
 </dl>
-<hr style="margin-top: 20px; margin-bottom: 20px;">
+
 
 <h2 style="font-family: 'Georgia', serif; font-size: 24px; font-weight: bold; color: #2c3e50; border-bottom: 2px solid #ccc; padding-bottom: 5px;">
   AI for Medical Imaging
@@ -80,11 +80,11 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
 <dd><strong>Jinting Wang</strong>, Jiafei Liang, Yang Xiao, Joey Tianyi Zhou, Zhiwen Fang, Feng Yang</dd>
 <dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics (<strong>JBHI 2023</strong>)</dd>
 </dl>
-<hr style="margin-top: 20px; margin-bottom: 20px;">
+
 
 <dl>
   <dt>
-    <img align="left" width="200" style="height:130px;" hspace="20" src="images/GREnet.jpg">
+    <img align="left" width="200" style="height:150px;" hspace="20" src="images/GREnet.jpg">
   </dt>
   <dd>
     <a href="https://ieeexplore.ieee.org/abstract/document/10026671">
@@ -95,7 +95,7 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
   <dd><strong class="First"></strong> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS 2023</strong>)</dd>
 </dl>
 
-<hr style="margin-top: 20px; margin-bottom: 20px;">
+
 
 
 <h2 style="margin: 15px 0 5px 0;">🎡 Service</h2>
