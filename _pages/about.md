@@ -94,22 +94,21 @@ GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Ima
 </dl>
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
+<h2 style="margin-bottom: 5px;">🎡 Service</h2>
+<div style="padding: 10px; width: 99%; margin: 5px auto;">
+<h3 style="margin-bottom: 5px;">Conference Committee Member</h3>
+  <ul style="margin: 0;">
+    <li>Reviewer for ACM MM 2025, ICASSP 2025</li>
+    <li>Reviewer for ICASSP 2024, AAAI 2024, ACM MM 2024</li>
+  </ul>
+<h3 style="margin-bottom: 5px;">Journal Reviewer</h3>
+  <ul style="margin: 0;">
+    <li>IEEE TNNLS,TASLP </li>
+    <li>IPR</li>
+  </ul>
+</div>
 
- <hr>
 
-<h2>🎡 Service</h2>
-
-<h3>Conference Committee Member</h3>
-<ul>
-  <li>Reviewer for ACM MM 2025, ICASSP 2025</li>
-  <li>Reviewer for ICASSP 2024, AAAI 2024, ACM MM 2024</li>
-</ul>
-
-<h3>Journal Reviewer</h3>
-<ul>
-  <li>IEEE TNNLS,TASLP </li>
-  <li>IPR</li>
-</ul>
 
 
 
