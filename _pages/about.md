@@ -83,31 +83,38 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
 <dl>
-  <dt><img align="left" width="200"
-hspace="20" wspace="20" src="images/GREnet.jpg">
-</dt>
-<dd><a href="https://ieeexplore.ieee.org/abstract/document/10026671"><strong>	
-GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Image Segmentation
-</strong></a></dd>
-<dd><strong>Jinting Wang</strong>, Yujiao Tang, Yang Xiao, Joey Tianyi Zhou, Zhiwen Fan, Feng Yang</dd>
-<dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics(<strong>JBHI 2023</strong>)</dd>
+  <dt>
+    <img align="left" width="200" style="height:130px;" hspace="20" src="images/GREnet.jpg">
+  </dt>
+  <dd>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10026671">
+      <strong>GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Image Segmentation</strong>
+    </a>
+  </dd>
+  <dd><strong>Jinting Wang</strong>, Yujiao Tang, Yang Xiao, Joey Tianyi Zhou, Zhiwen Fan, Feng Yang</dd>
+  <dd><strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics (<strong>JBHI 2023</strong>)</dd>
 </dl>
+
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
 
 <h2 style="margin: 15px 0 5px 0;">🎡 Service</h2>
 <div style="padding: 10px; width: 99%; margin: 5px auto;">
-<h3 style="margin-bottom: 5px;">Conference Committee Member</h3>
-  <ul style="margin: 0;">
+
+  <h3 style="margin-bottom: 5px;">Conference Committee Member</h3>
+  <ul style="margin: 0 0 10px 20px; padding: 0;">
     <li>Reviewer for ACM MM 2025, ICASSP 2025</li>
     <li>Reviewer for ICASSP 2024, AAAI 2024, ACM MM 2024</li>
   </ul>
-<h3 style="margin-bottom: 5px;">Journal Reviewer</h3>
-  <ul style="margin: 0;">
-    <li>IEEE TNNLS,TASLP </li>
+
+  <h3 style="margin-bottom: 5px;">Journal Reviewer</h3>
+  <ul style="margin: 0 0 0 20px; padding: 0;">
+    <li>IEEE TNNLS, TASLP</li>
     <li>IPR</li>
   </ul>
+
 </div>
+
 
 
 
