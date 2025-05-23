@@ -100,16 +100,16 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
 
 
 
-<h2 style="display: block; clear: both; margin: 20px 0 5px 0;">🎡 Service</h2>
-<div style="display: block; padding: 10px; width: 99%; margin: 5px auto; clear: both;">
+<h2 style="display: block; clear: both; margin: 20px 0 8px 0;">🎡 Service</h2>
+<div style="display: block; padding: 10px; width: 99%; margin: 8px auto; clear: both;">
 
-<h3 style="margin: 0 0 5px 0;">Conference Committee Member</h3>
+<h3 style="margin: 0 0 8px 0;">Conference Committee Member</h3>
   <ul style="margin: 0 0 10px 20px; padding: 0;">
     <li>Reviewer for ACM MM 2025, ICASSP 2025</li>
     <li>Reviewer for ICASSP 2024, AAAI 2024, ACM MM 2024</li>
   </ul>
 
-<h3 style="margin: 0 0 5px 0;">Conference Committee Member</h3>
+<h3 style="margin: 0 0 8px 0;">Conference Committee Member</h3>
   <ul style="margin: 0 0 0 20px; padding: 0;">
     <li>IEEE TNNLS, TASLP</li>
     <li>IPR</li>
