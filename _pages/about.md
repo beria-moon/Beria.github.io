@@ -99,7 +99,7 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
 
 
 
-<h2 style="display: block; clear: both; margin: 20px 0 8px 0;">🎡 Service</h2>
+<h2 style="display: block; clear: both; margin: 40px 0 8px 0;">🎡 Service</h2>
 <div style="display: block; padding: 10px; width: 99%; margin: 8px auto; clear: both;">
 
 <h3 style="margin: 0 0 8px 0;">Conference Committee Member</h3>
