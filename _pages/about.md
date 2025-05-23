@@ -37,14 +37,24 @@ redirect_from:
 </div>
 
 <h2 style="margin: 15px 0 5px 0;">📚 Selected Publications</h2>
-<div style="padding: 10px; width: 99%; margin: 5px auto;">
-  <ul style="margin: 0;">
-    <li><strong>ICASSP 2025:</strong> Jinting Wang*, Li Liu, Jun Wang. Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listening.</li>
-    <li><strong>ICASSP 2025:</strong> Jinting Wang*, Li Liu, Jun Wang. MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Reference.</li>
-    <li><strong>TNNLS:</strong> J. Wang*, Z. Fang and F. Yang. GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Image Segmentation.</li>
-    <li><strong>JBHI:</strong> J. Wang*, Z. Fang and F. Yang. TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentation in Ultrasound Images.</li>
-  </ul>
+<div style="text-align: left; margin: 20px 0; font-size: 1.2em; color: #666;">
+2025 
 </div>
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedTGE.png">
+<span class="conference-label">ICLR 2025</span>
+</dt>
+  <dd><a href="https://openreview.net/forum?id=5Jc7r5aqHJ"><strong>	
+Energy-based Backdoor Defense Against Federated Graph Learning
+</strong></a></dd>
+<dd><strong><strong>Guancheng Wan</strong>&dagger;</strong>, Zitong Shi&dagger;, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd> <strong class="co-first"><i>Oral Presentation (Top 1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+</dl>
+
+<hr>
+  
+
 
 
 
