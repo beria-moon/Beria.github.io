@@ -42,7 +42,7 @@ redirect_from:
 <h2 style="font-family: 'Georgia', serif; font-size: 24px; font-weight: bold; color: #2c3e50; border-bottom: 2px solid #ccc; padding-bottom: 5px;">
  Multi-modal Learning and Generation
 </h2>
-<dl style="width: 100px; height: 220px; border: 2px solid #ddd; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); padding: 15px;">
+<dl>
  <dt><img align="left" width="200"
 hspace="10" wspace="20" src="images/MotionComposer.jpg">
 </dt>
