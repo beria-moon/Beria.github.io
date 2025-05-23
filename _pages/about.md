@@ -43,8 +43,8 @@ redirect_from:
  Multi-modal Learning and Generation
 </h2>
 <dl>
-  <dt><img align="left" width="200"
-hspace="10" wspace="20" src="images/MotionComposer.jpg">
+<dt>
+  <img src="images/MotionComposer.jpg" width="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 </dt>
   <dd><a href="https://ieeexplore.ieee.org/abstract/document/10889094"><strong>	
 MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Reference
