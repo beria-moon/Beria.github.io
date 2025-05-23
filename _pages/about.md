@@ -41,7 +41,7 @@ redirect_from:
 2025 
 </div>
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="200"
 hspace="10" wspace="20" src="images/MotionComposer.jpg">
 <span class="conference-label">ICASSP 2025</span>
 </dt>
