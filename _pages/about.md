@@ -49,7 +49,7 @@ MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Refe
 <dd><strong><strong>Jinting Wang</strong>&dagger;</strong>, Li Liu&dagger;Jun Wang</dd>
 <dd> <strong class="First"></strong> in IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2025</strong>)</dd>
 </dl>
-<hr>
+<hr style="margin-top: 10px; margin-bottom: 10px;">
 
 <dl>
   <dt><img align="left" width="200"
@@ -61,7 +61,7 @@ Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listen
 <dd><strong><strong>Jinting Wang</strong>&dagger;</strong>, Li Liu&dagger;Jun Wang</dd>
 <dd>  <strong class="First"></strong> IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2025</strong>)</dd>
 </dl>
-<hr>
+<hr style="margin-top: 10px; margin-bottom: 10px;">
 
 <dl>
   <dt><img align="left" width="200"
@@ -73,7 +73,7 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
 <dd><strong><strong>Jinting Wang</strong>&dagger;</strong>,Jiafei Liang,Yang Xiao, Joey Tianyi Zhou, Zhiwen Fang&dagger;Feng Yang&dagger</dd>
 <dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics(<strong>JBHI 2023</strong>)</dd>
 </dl>
-<hr>
+<hr style="margin-top: 10px; margin-bottom: 10px;">
 
 <dl>
   <dt><img align="left" width="200"
@@ -85,8 +85,7 @@ GREnet: Gradually REcurrent Network With Curriculum Learning for 2-D Medical Ima
 <dd><strong><strong>Jinting Wang</strong>&dagger;</strong>,Yujiao Tang,Yang Xiao, Joey Tianyi Zhou, Zhiwen Fang&dagger;Feng Yang&dagger</dd>
 <dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics(<strong>JBHI 2023</strong>)</dd>
 </dl>
-<hr>
-
+<hr style="margin-top: 10px; margin-bottom: 10px;">
   
 
 
