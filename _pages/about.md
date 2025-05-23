@@ -42,14 +42,14 @@ redirect_from:
 </div>
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedTGE.png">
-<span class="conference-label">ICLR 2025</span>
+hspace="10" wspace="20" src="../images/MotionComposer.png">
+<span class="conference-label">ICASSP 2025</span>
 </dt>
-  <dd><a href="https://openreview.net/forum?id=5Jc7r5aqHJ"><strong>	
-Energy-based Backdoor Defense Against Federated Graph Learning
+  <dd><a href="https://ieeexplore.ieee.org/abstract/document/10889094"><strong>	
+MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Reference
 </strong></a></dd>
-<dd><strong><strong>Guancheng Wan</strong>&dagger;</strong>, Zitong Shi&dagger;, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
-<dd> <strong class="co-first"><i>Oral Presentation (Top 1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+<dd><strong><strong>Jinting Wang</strong>&dagger;</strong>, Li Liu&dagger;Jun Wang</dd>
+<dd> <strong class="First"></strong> in IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2025</dd>
 </dl>
 
 <hr>
