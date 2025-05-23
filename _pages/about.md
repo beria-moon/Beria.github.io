@@ -78,7 +78,7 @@ hspace="20" wspace="20" src="images/TaiChiNet.jpg">
 TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentation in Ultrasound Images
 </strong></a></dd>
 <dd><strong>Jinting Wang</strong>, Jiafei Liang, Yang Xiao, Joey Tianyi Zhou, Zhiwen Fang, Feng Yang</dd>
-<dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics(<strong>JBHI 2023</strong>)</dd>
+<dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics (<strong>JBHI 2023</strong>)</dd>
 </dl>
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
@@ -92,7 +92,7 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
     </a>
   </dd>
   <dd><strong>Jinting Wang</strong>, Yujiao Tang, Yang Xiao, Joey Tianyi Zhou, Zhiwen Fan, Feng Yang</dd>
-  <dd><strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics (<strong>JBHI 2023</strong>)</dd>
+  <dd><strong class="First"></strong> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS 2023</strong>)</dd>
 </dl>
 
 <hr style="margin-top: 20px; margin-bottom: 20px;">
