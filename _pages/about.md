@@ -53,7 +53,7 @@ MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Refe
 <dd><strong>Jinting Wang</strong>, Li Liu, Jun Wang</dd>
 <dd> <strong class="First"></strong> in IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2025</strong>)</dd>
 
-<hr style="margin-top: 20px; margin-bottom: 10px;">
+<hr style="margin-top: 20px; margin-bottom: 20px;">
 
 
 
