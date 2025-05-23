@@ -58,9 +58,8 @@ MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Refe
 
 
 <dl>
-  <dt><img align="left" width="200"
-hspace="20" wspace="20" src="images/FinePortraitist.jpg">
-</dt>
+<dt><img align="left" width="200" height="120" hspace="20" wspace="20" src="images/FinePortraitist.jpg"></dt>
+
 <dd><a href="https://ieeexplore.ieee.org/abstract/document/10889904"><strong>	
 Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listening
 </strong></a></dd>
