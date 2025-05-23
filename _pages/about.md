@@ -53,6 +53,8 @@ MotionComposer: Enhancing Rhythmic Music Generation with Adaptive Retrieval Refe
 <dd><strong>Jinting Wang</strong>, Li Liu, Jun Wang</dd>
 <dd> <strong class="First"></strong> in IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2025</strong>)</dd>
 
+<hr style="margin-top: 20px; margin-bottom: 10px;">
+
 
 
 <dl>
@@ -80,11 +82,11 @@ TaiChiNet: Negative-Positive Cross-Attention Network for Breast Lesion Segmentat
 <dd><strong>Jinting Wang</strong>, Jiafei Liang, Yang Xiao, Joey Tianyi Zhou, Zhiwen Fang, Feng Yang</dd>
 <dd>  <strong class="First"></strong> IEEE Journal of Biomedical and Health Informatics (<strong>JBHI 2023</strong>)</dd>
 </dl>
-
+<hr style="margin-top: 20px; margin-bottom: 30px;">
 
 <dl>
   <dt>
-    <img align="left" width="200" style="height:150px;" hspace="20" src="images/GREnet.jpg">
+    <img align="left" width="200" hspace="20" src="images/GREnet.jpg">
   </dt>
   <dd>
     <a href="https://ieeexplore.ieee.org/abstract/document/10026671">
