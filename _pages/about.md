@@ -39,6 +39,9 @@ redirect_from:
 <h2 style="margin: 15px 0 5px 0;">📚 Selected Publications</h2>
 <div style="text-align: left; margin: 20px 0; font-size: 1.2em; color: #666;">
 </div>
+<h2 style="font-family: 'Georgia', serif; font-size: 24px; font-weight: bold; color: #2c3e50; border-bottom: 2px solid #ccc; padding-bottom: 5px;">
+ Multi-modal Learning and Generation
+</h2>
 <dl>
   <dt><img align="left" width="200"
 hspace="10" wspace="20" src="images/MotionComposer.jpg">
@@ -63,6 +66,9 @@ Fine-portraitist: Visualizing the Speaker’s Face Portrait during Speech Listen
 </dl>
 <hr style="margin-top: 20px; margin-bottom: 20px;">
 
+<h2 style="font-family: 'Georgia', serif; font-size: 24px; font-weight: bold; color: #2c3e50; border-bottom: 2px solid #ccc; padding-bottom: 5px;">
+  AI for Medical Imaging
+</h2>
 <dl>
   <dt><img align="left" width="200"
 hspace="10" wspace="20" src="images/TaiChiNet.jpg">
