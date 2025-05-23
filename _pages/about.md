@@ -42,7 +42,7 @@ redirect_from:
 </div>
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="images/MotionComposer.png">
+hspace="10" wspace="20" src="images/MotionComposer.jpg">
 <span class="conference-label">ICASSP 2025</span>
 </dt>
   <dd><a href="https://ieeexplore.ieee.org/abstract/document/10889094"><strong>	
